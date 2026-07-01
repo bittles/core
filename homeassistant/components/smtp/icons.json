@@ -1,9 +1,0 @@
-{
-  "entity": {
-    "notify": {
-      "mailto": {
-        "default": "mdi:email-outline"
-      }
-    }
-  }
-}
